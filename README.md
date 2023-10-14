@@ -1,0 +1,2 @@
+# bitMaskPractice
+practice. Bit mask
